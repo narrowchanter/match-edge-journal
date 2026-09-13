@@ -13,3 +13,9 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 **Rule:** Do **not** auto-buy the 11 after an away early red. Quality-adjust (Greenberg PL: home only ~+0.36 pts/game when away goes to 10). If the 11 fails to generate xG/territory for ~15–25' or by HT, prefer **depressed 10-man Yes or Draw** over forced 11-Yes. Immediate post-red 10-Yes ~fair on equal-strength models; edge appears after the 11’s dead tape.
 
 **Why / source:** [2026-09-13 Man United–Man City](../journals/2026-09/2026-09-13-epl-mun-mac.md) — Foden red ~23'; United Yes ~52–56 trap; HT United xG ~0.16; Ash sat; leave-on-table was City Yes ~teens once tape was dead; City 1–0 Haaland with 10 men. Class of failure readable; exact finish is tail.
+
+## Live — missed Draw window → don’t morph to late +0.5 / favorite-No
+
+**Rule:** If the desk already said **don’t chase** Draw (price left the edge band, e.g. mid-20s → ~40¢+), **PASS**. Do **not** morph the same late 0–0 narrative into **home +0.5 / favorite No @ ~65–75¢**. Same story, worse instrument, still fully dead to one late pen/set-piece favorite win. Tiny size doesn’t fix a no-edge entry.
+
+**Why / source:** [2026-09-13 Real Sociedad–Atlético Madrid](../journals/2026-09/2026-09-13-lal-rso-mad.md) — morning Draw ~26.5¢ was the edge; live ~58' dead xG but Draw ~42.5 tagged don’t-chase; Ash $5 Atlético No @~70¢ as Sociedad +0.5; 84' Grimaldo pen then 90'/90+5 pile-on → FT 0–3; ≈−$5. First 83' were draw script; entry after don’t-chase was the process miss.
