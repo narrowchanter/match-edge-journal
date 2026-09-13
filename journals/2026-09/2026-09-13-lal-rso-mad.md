@@ -63,6 +63,7 @@ Slug: `lal-rso-mad-2026-09-13` · Reale Arena (Anoeta) · KO 20:00 London
 Anoeta stayed 0–0 / dead xG into the late window we already tagged don’t-chase; buying Atlético No @70¢ as “Sociedad +0.5” was the same story at a worse price — then an 84' pen + stoppage pile-on finished the $5.
 
 ## Nightly reconcile note (23:00 London · 2026-09-13)
-- Closed/closing soccer ticket: **Atlético No (Sociedad +0.5)** ≈ **−$5**
-- Also today: MUN–MCI sit (separate journal); ARS banked prior day
-- Overnight MLS leans (NE / PHI / PASS VAN) — check Gina for any fills separately
+- Gina final: **Atlético Madrid No** (`lal-rso-mad-2026-09-13`) · BUY **7.1428 sh @ ~70¢** · cost **~$5.07** · **resolved lost** · mark **0** · PnL **≈ −$5.00** (fills authoritative; no mid-match sell).
+- No other soccer fills today. Open non-soccer (Fed Yes) ignored here.
+- Also today: Man United–Man City sit — `2026-09-13-epl-mun-mac.md`. Prior day ARS bank ~+$9.81.
+- MLS paper monitors (no Gina fills): see `2026-09-13-mls-evening-paper.md`.
