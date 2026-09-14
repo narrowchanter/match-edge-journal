@@ -19,3 +19,9 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 **Rule:** If the desk already said **don’t chase** Draw (price left the edge band, e.g. mid-20s → ~40¢+), **PASS**. Do **not** morph the same late 0–0 narrative into **home +0.5 / favorite No @ ~65–75¢**. Same story, worse instrument, still fully dead to one late pen/set-piece favorite win. Tiny size doesn’t fix a no-edge entry.
 
 **Why / source:** [2026-09-13 Real Sociedad–Atlético Madrid](../journals/2026-09/2026-09-13-lal-rso-mad.md) — morning Draw ~26.5¢ was the edge; live ~58' dead xG but Draw ~42.5 tagged don’t-chase; Ash $5 Atlético No @~70¢ as Sociedad +0.5; 84' Grimaldo pen then 90'/90+5 pile-on → FT 0–3; ≈−$5. First 83' were draw script; entry after don’t-chase was the process miss.
+
+## Pre-match — MED–HIGH clearest board → probe by default
+
+**Rule:** When the morning slate’s **clearest board** is marked **MED–HIGH** (or higher) and the preferred entry **stays ≤ the plan band** through the ~1h lineup-confirm watch into KO (no thesis-killing XI/injury flip), **default to at least a probe fill** unless Ash explicitly says pass. Pure paper on that board is leave-on-table, not discipline. Live underwater marks after an early against-thesis goal are a sizing reason, not a skip reason.
+
+**Why / source:** [2026-09-14 Villarreal–Betis](../journals/2026-09/2026-09-14-lal-vil-bet.md) — Betis Yes ~26.5¢ held into KO on the day’s clearest MED–HIGH fade of VIL brand; Moreno 29' briefly marked Betis ~14¢ then Cucho 38' / Natan 42' → FT 1–2; paper ≈+$13.87 on a $5 hold-to-$1; Gina flat. Sister Leeds Yes also paper-won (Med) — see [2026-09-14 Leeds–Newcastle](../journals/2026-09/2026-09-14-epl-lee-new.md).
