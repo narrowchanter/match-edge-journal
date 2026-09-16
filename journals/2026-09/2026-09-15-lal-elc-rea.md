@@ -77,3 +77,8 @@ Martínez Valero: Güler/Dituro 25' + Mbappé 33' → 0–2/~98¢ bank window mi
 ## Nightly reconcile note (23:10 London · 2026-09-15)
 - This ticket **won on resolution**; exit process **failed twice**.
 - Combined Gina soccer with ALA: ≈ **−$4.07**.
+
+
+## Redeem reconcile (10:07 London · 2026-09-16)
+- Gina **REDEEM** Real Madrid Yes: **6.097561 sh → $6.097561** (tx `0xdc49e0fd…`, activity ~09:07Z / **10:07 BST**).
+- Closed-position bookkeeping: cost basis ~$5.044 → proceeds $6.0975 → **realized PnL +$1.0525** (authoritative cash). Process-exit miss from the night still stands — FT/redeem does not rewrite the missed ~98¢ bank or 2–2 kill.
