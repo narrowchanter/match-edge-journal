@@ -43,3 +43,10 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 **Rule:** Do **not** rewrite a paper sit or non-fill with FT. An unfilled **MED–HIGH clearest** probe that **loses** is still unfinished probe-by-default process unless Ash **explicitly passed** — FT luck ≠ a new sit preference. A deliberate **PASS outside the price band** that **wins** stays a correct band call — FT ≠ license to chase the rich print next time. Sister to “don’t rewrite a sell with FT.”
 
 **Why / source:** [2026-09-16 RC Deportivo vs Sevilla](../journals/2026-09/2026-09-16-lal-dep-sev.md) — Depor Yes ~36.5–37.5 MED–HIGH pending Ash go, never filled; Stassin 52' → FT 0–1 (xG 0.18–0.87); dodge ≈$5 is luck. Contrast same night: Atlético Madrid Yes PASS unless ≤68 @~70.5 then ATM **4–0** — leave-on-table by band design ([evening paper](../journals/2026-09/2026-09-16-lal-evening-paper.md)).
+
+## Entries — hard max price ≤45¢
+
+**Rule:** **Never buy** a new soccer ticket above **45¢** (any Yes/No/Draw). Soft lean, chalk, or “clearest board” does **not** override. If the preferred band sits **>45¢**, **PASS** or wait for a print ≤45¢. Size/probing does not waive the cap.
+
+**Why / source:** [2026-09-17 Málaga–Villarreal](../journals/2026-09/2026-09-17-lal-mala-vil.md) — Ash filled Villarreal No ~9.8sh @**51¢**; live dump to teens after VIL 1–2 (Dotor / Moleiro / Gueye). Ash locked: never enter above 45 again.
+
