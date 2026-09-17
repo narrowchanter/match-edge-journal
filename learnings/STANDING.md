@@ -48,5 +48,5 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 
 **Rule:** **Never buy** a new soccer ticket above **45¢** (any Yes/No/Draw). Soft lean, chalk, or “clearest board” does **not** override. If the preferred band sits **>45¢**, **PASS** or wait for a print ≤45¢. Size/probing does not waive the cap.
 
-**Why / source:** [2026-09-17 Málaga–Villarreal](../journals/2026-09/2026-09-17-lal-mala-vil.md) — Ash filled Villarreal No ~9.8sh @**51¢**; live dump to teens after VIL 1–2 (Dotor / Moleiro / Gueye). Ash locked: never enter above 45 again.
+**Why / source:** [2026-09-17 Málaga CF vs Villarreal CF](../journals/2026-09/2026-09-17-lal-mala-vil.md) — Gina Villarreal No **9.80sh @51¢** (~$5.12); Dotor 12' briefly marked No ~71–72¢ (bank missed); Moleiro 40' / Gueye 45'+2 → HT 1–2 then Gueye pen 86' → FT **1–3**; held to **−$5.12**. Ash locked: never enter above 45 again.
 
