@@ -62,7 +62,16 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 
 **Why / source:** [2026-09-20 RC Deportivo vs Real Betis](../journals/2026-09/2026-09-20-lal-dep-bet.md) — Depor Yes @25¢; Cucho 43' / Villares 86' → FT **1–1**; Yes −$5.19; Draw ≤26 would have paid.
 
+## Exits — time-decay TP on clock tickets (late Under / level Draw)
+
+**Rule:** On a held ticket whose value comes mainly from the clock running out (late "no more goals" Under, Draw needing one equaliser or holding level late), a single resting TP below late-game fair sells the best minutes — and on jump-path tickets (equaliser) the limit gets lifted **at** the limit on the gap. When proposing a TP, show Ash the minute-aware fair (~75' / ~85' / 90'+) and offer a **ladder: 50% at the named TP, 50% at ≥90¢ after ~85'** (or hold). **If Ash names a single level, place exactly that.** Desk-set TPs default to the ladder. Also: when a goal moves a total to "one more kills it", surface that Under at its post-goal low if ≤45¢.
+
+**Why / source:** [2026-10-10 Arsenal–Leeds United](../journals/2026-10/2026-10-10-epl-ars-lee.md) — Under 3.5 low ~42.5¢ after Guimarães 68'; Ash bought 59¢, TP 80 filled ~85' (+$3.35); FT 2–1, hold paid $16.95 (~$3.40 left). Sister: [2026-10-07 Itagüí Leones–Barranquilla](../journals/2026-10/2026-10-07-col2-leo-bar.md) — Draw @39, full TP 70 lifted on Cassiani 88' equaliser (+$3.82); hold paid $12.82 (~$3.85 left). Ash rejected the split there — explicit level still wins.
+
 ---
 
 ## Index note (2026-09-20)
 **New:** auto-bank when Gina holds; chalk/Draw bank extension; Draw-prefer co-primary grind. Journals: `2026-09-20-epl-ful-mun`, `2026-09-20-lal-dep-bet`, `2026-09-20-lal-val-rso`, `2026-09-20-sunday-paper`. Day soccer ≈ **−$15.38**, sellVolume **$0**.
+
+## Index note (2026-10-10)
+**New:** time-decay TP ladder (desk-set) + show minute-aware fair before Ash names a TP. Journals: `2026-10-07-col2-leo-bar` (catch-up), `2026-10-10-epl-ars-lee`, `2026-10-10-saturday-paper`. Week soccer ≈ **+$7.17** banked (two TPs), ≈ $7.25 left vs hold.
