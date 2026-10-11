@@ -68,6 +68,13 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 
 **Why / source:** [2026-10-10 Arsenal–Leeds United](../journals/2026-10/2026-10-10-epl-ars-lee.md) — Under 3.5 low ~42.5¢ after Guimarães 68'; Ash bought 59¢, TP 80 filled ~85' (+$3.35); FT 2–1, hold paid $16.95 (~$3.40 left). Sister: [2026-10-07 Itagüí Leones–Barranquilla](../journals/2026-10/2026-10-07-col2-leo-bar.md) — Draw @39, full TP 70 lifted on Cassiani 88' equaliser (+$3.82); hold paid $12.82 (~$3.85 left). Ash rejected the split there — explicit level still wins.
 
+
+## Explicit buys — exit plan + price-move read in the fill message (any sport)
+
+**Rule:** An explicit buy from Ash is executed as instructed (it beats the ≤45¢ cap). In the same fill message the desk must (a) say what moved the price — scoreboard deficit, stale page vs live book — and label preseason/friendly games as lower-information, and (b) **propose a concrete exit**: at minimum a scratch at entry if it trades back there, plus a TP. Place it only if Ash says yes or names a level. "Don't buy the dump as a better print" applies across sports, not just soccer.
+
+**Why / source:** [2026-10-11 Spurs–Suns (NBA preseason)](../journals/2026-10/2026-10-11-nba-sas-phx.md) — Suns 35–25 Q1 dropped Spurs ~70→51¢; page still showed 71¢; bought 51¢ ($10.25); scratch windows ~53¢ / ~51.5¢ untaken; Suns 102–98 → −$10.25.
+
 ---
 
 ## Index note (2026-09-20)
@@ -75,3 +82,6 @@ Only rules with a dated journal citation. Detail lives in the journal — this f
 
 ## Index note (2026-10-10)
 **New:** time-decay TP ladder (desk-set) + show minute-aware fair before Ash names a TP. Journals: `2026-10-07-col2-leo-bar` (catch-up), `2026-10-10-epl-ars-lee`, `2026-10-10-saturday-paper`. Week soccer ≈ **+$7.17** banked (two TPs), ≈ $7.25 left vs hold.
+
+## Index note (2026-10-11)
+**New:** explicit-buy fill message must read the price move and propose an exit (scratch at entry + TP); dump rule applies across sports. Journal: `2026-10-11-nba-sas-phx` (off-sport, −$10.25). No soccer tickets on Sunday 11 Oct.
